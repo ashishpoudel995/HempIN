@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/HempIN/static/css/main.ed7fa27a.chunk.css",
-    "main.js": "/HempIN/static/js/main.b2c72905.chunk.js",
-    "main.js.map": "/HempIN/static/js/main.b2c72905.chunk.js.map",
+    "main.css": "/HempIN/static/css/main.a0d4974a.chunk.css",
+    "main.js": "/HempIN/static/js/main.dee26880.chunk.js",
+    "main.js.map": "/HempIN/static/js/main.dee26880.chunk.js.map",
     "runtime-main.js": "/HempIN/static/js/runtime-main.54c919f6.js",
     "runtime-main.js.map": "/HempIN/static/js/runtime-main.54c919f6.js.map",
     "static/js/2.e4cd89be.chunk.js": "/HempIN/static/js/2.e4cd89be.chunk.js",
     "static/js/2.e4cd89be.chunk.js.map": "/HempIN/static/js/2.e4cd89be.chunk.js.map",
     "index.html": "/HempIN/index.html",
-    "static/css/main.ed7fa27a.chunk.css.map": "/HempIN/static/css/main.ed7fa27a.chunk.css.map",
+    "static/css/main.a0d4974a.chunk.css.map": "/HempIN/static/css/main.a0d4974a.chunk.css.map",
     "static/js/2.e4cd89be.chunk.js.LICENSE.txt": "/HempIN/static/js/2.e4cd89be.chunk.js.LICENSE.txt",
     "static/media/Ashish.59ab4455.jpg": "/HempIN/static/media/Ashish.59ab4455.jpg",
     "static/media/Madhur.32763653.jpeg": "/HempIN/static/media/Madhur.32763653.jpeg",
@@ -28,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.54c919f6.js",
     "static/js/2.e4cd89be.chunk.js",
-    "static/css/main.ed7fa27a.chunk.css",
-    "static/js/main.b2c72905.chunk.js"
+    "static/css/main.a0d4974a.chunk.css",
+    "static/js/main.dee26880.chunk.js"
   ]
 }
