@@ -1,0 +1,49 @@
+body {
+  background-image: url(./images/background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.nav-item {
+  margin: 10px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-bottom: 3px solid #e87676;
+}
+.contact-us {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: center;
+}
+.contact-us div {
+  margin: 50px;
+  border: 2px solid #e87676;
+  padding: 10px;
+  min-width: 300px;
+  background-color: #bededd;
+  cursor: pointer;
+  transition: 0.6s ease;
+}
+.contact-us div:hover {
+  background-color: #fff0e3;
+  transform: translateY(-10px);
+}
+.contact-us div h3 {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.contact-us div p {
+  font-size: 1.3em;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.hempin-quote {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  font-size: 2em;
+  font-weight: bold;
+  margin-top: 50px;
+}
