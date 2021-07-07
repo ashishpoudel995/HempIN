@@ -31,7 +31,7 @@ class NavigationBar extends Component {
                   </Link>
                 </li>
                 <li className="nav-item" style={{ fontWeight: "800" }}>
-                  <Link className="nav-link" to="/products">
+                  <Link className="nav-link" to="/HempIN/products">
                     Products
                   </Link>
                 </li>

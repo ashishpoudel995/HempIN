@@ -118,7 +118,7 @@ class App extends React.Component {
           <Switch>
             <Route path="/cart" component={() => <MyCart />} />
             <Route
-              path="/products"
+              path="/HempIN/products"
               component={() => <ShoppingPage Product={Product} />}
             />
             <Route path="/ourteam" component={() => <OurTeam Team={Team} />} />
